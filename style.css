@@ -31,7 +31,6 @@ body {
 .nav__item {
   margin-right: 20px;
   list-style-type: none;
-
 }
 
 .nav__link {
@@ -45,7 +44,6 @@ body {
   text-transform: uppercase;
   text-decoration: none;
   color: #000;
-
 }
 
 .nav__link:hover,
